@@ -2,15 +2,15 @@
 
 Welcome to the CodeForUs website repository! This README provides an overview of the project
 
-## Technologies Used
+# Technologies Used
 
 - HTML5
 - CSS3
 - Bootstrap 5
 - JavaScript
 
-  ## File Structutre
-  The website contains several sections:
+# File Structutre
+The website contains several sections:
 
 - **Home**: Introduction and general information about the workshops.
 - **Information**: Detailed information about what participants can expect.
