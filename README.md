@@ -22,27 +22,24 @@ The website contains several sections:
 ## Credits
 
 Learn more about the people and organizations behind Code For Us.
-**Dr. Joslenne Peña** - Founder
 
-Dr. Joslenne Peña established Code For Us to create inclusive computing education opportunities for adult learners.
+1. **Dr. Joslenne Peña - Founder**
+   - Dr. Joslenne Peña established Code For Us to create inclusive computing education opportunities for adult learners.
 
-**Francesca Brown** - Research & Teaching Assistant
+2. **Francesca Brown - Research & Teaching Assistant**
+   - Francesca Brown assists in both research and teaching, ensuring a supportive learning environment.
 
-Francesca Brown assists in both research and teaching, ensuring a supportive learning environment.
+3. **Macalester College Library**
+   - Host of the first Code For Us workshops (2023-2024), providing a conducive learning space.
 
-**Macalester College Library**
+4. **Rondo Community Library**
+   - Current hub collaborating with Code For Us to extend computing education to the local community.
 
-Host of the first Code For Us workshops (2023-2024), providing a conducive learning space.
+5. **William Acosta - Student Researcher**
+   - William Acosta researches effective teaching methods in computing education.
 
-**Rondo Community Library**
-
-Current hub collaborating with Code For Us to extend computing education to the local community.
-
-**William Acosta** - Student Researcher
-
-William Acosta researches effective teaching methods in computing education.
-
-**Ridwan Osman** - Student Researcher
+6. **Ridwan Osman - Student Researcher**
+   - Ridwan Osman is involved in researching effective teaching methods in computing education.
 
 Ridwan Osman explores the impact of inclusive computing education on diverse communities.
 
