@@ -41,8 +41,6 @@ Learn more about the people and organizations behind Code For Us.
 6. **Ridwan Osman - Student Researcher**
    - Ridwan Osman is involved in researching effective teaching methods in computing education.
 
-Ridwan Osman explores the impact of inclusive computing education on diverse communities.
-
 
 ## Contact
 For any inquiries , please contact us at codeforus@macalester.edu
