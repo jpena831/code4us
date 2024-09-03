@@ -40,7 +40,8 @@ Learn more about the people and organizations behind Code For Us.
 
 6. **Ridwan Osman - Student Researcher**
    - Ridwan Osman is involved in researching effective teaching methods in computing education.
-
+7. **Karla Martinez - Student Researcher**
+   - Karla Martinez is a student researcher in inclusive teaching methods in computer science.
 
 ## Contact
 For any inquiries , please contact us at codeforus@macalester.edu
